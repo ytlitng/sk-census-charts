@@ -33,6 +33,8 @@
 
          Put it all together to generate the URL that's needed by INQStats.
          Our code will take care of the rest.
+
+         Once you've finished that (or if you get stuck), move onto ./charts.controller.js.
       */
 
       var url = '';
